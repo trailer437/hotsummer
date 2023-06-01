@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  .upload-container {
+    text-align: center;
+    margin: 20px 0;
+  }
+  
+  .upload-label {
+    display: inline-block;
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  #result {
+    display: none;
+    margin-top: 20px;
+  }
+  
+  .result-loading {
+    text-align: center;
+    font-style: italic;
+    color: #888;
+  }
+  
+  .result-label {
+    font-weight: bold;
+    margin-top: 10px;
+  }
+  
+  .result-text {
+    margin-top: 5px;
+    padding: 10px;
+    background-color: #f1f1f1;
+    border: 1px solid #ddd;
+  }
+  
